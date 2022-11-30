@@ -12,4 +12,4 @@ Downloads (Windows-x64 only):
 
 <br/>
 
-Latest Version: [v1.0.1](https://github.com/ImLosingTheGame/ValorantTools/releases/tag/v1.0.1)
+Latest Version: [v1.0.2](https://github.com/ImLosingTheGame/ValorantTools/releases/tag/v1.0.2)
