@@ -11,8 +11,30 @@ namespace ValorantToolsAgentSelect
 		private static Random rnd = new Random();
 
 		private static List<string> agents { get; set; } = new List<string>()
-		{ "Astra", "Breach", "Brimstone", "Chamber", "Cypher", "Fade", "Harbor", "Jett", "KAY/O", "Killjoy", "Neon", "Omen", "Phoenix", "Raze",
-			"Reyna", "Sage", "Skye", "Sova", "Viper", "Yoru" };
+		{
+			"Astra",
+			"Breach",
+			"Brimstone",
+			"Chamber",
+			"Cypher",
+			"Deadlock",
+			"Fade",
+			"Gecko",
+			"Harbor",
+			"Jett",
+			"KAY/O",
+			"Killjoy",
+			"Neon",
+			"Omen",
+			"Phoenix",
+			"Raze",
+			"Reyna",
+			"Sage",
+			"Skye",
+			"Sova",
+			"Viper", 
+			"Yoru"
+		};
 
 		public static string GetRandom()
 		{
